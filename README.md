@@ -1,2 +1,2 @@
 # pat-exercises
-C++ programming exercises
+exercises of C++ programming and data structure.
